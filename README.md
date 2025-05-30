@@ -31,6 +31,6 @@ Clone the repo:
 
 bash
 Copy code
-git clone https://github.com/yourusername/guessing-game.git
+git clone https://github.com/lavish-0099/guessing-game.git
 Open index.html in your browser.
 
